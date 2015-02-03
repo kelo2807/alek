@@ -1,4 +1,4 @@
-Materiały eCG IT
+Materiały Alka
 ====================
 
 Materiały zawarte w tym repozytorium zawierają ćwiczenia, poradniki
@@ -8,16 +8,16 @@ i informatyki.
 Pobieranie tego repozytorium
 ----------------------------
 
-Repozytorium można skolonować lokanie:
+Repozytorium można sklonować lokalnie:
 
-    $ git clone https://github.com/xinulsw/linetc/
+    $ git clone https://github.com/kelo2807/alek/
 
 Wszystkie kody źródłowe można też pobrać jako archiwum ZIP bezpośrednio z tego repozytorium
 bez wykorzystania narzędzia GIT.
 
-https://github.com/linetc//archive/master.zip
+https://github.com/kelo2870/archive/master.zip
 
 Autor
 -------
 
-- Robert Bednarz <ecg@ecg.vot.pl>
+- Alek <kelo2807@gmail.com>
